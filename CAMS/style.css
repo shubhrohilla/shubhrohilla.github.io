@@ -1,6 +1,0 @@
-body{ margin:0px; }
-#sidepane{ width: 0vh; min-height: 100vh; background-color: rgba(0,20,38,1); float: right; }
-#profile{ height: 10vh; }
-#window{ /*border: 2px solid #aa0000;*/ min-height: 100vh; margin-right: 12vh; box-shadow: 0px 0px 2vh #000 inset; background-color: rgba(0,34,64,1); }
-#greybits{ margin-top: 0.5vh; }
-#underBorder{ border-bottom: 0.2vh solid rgba(20,40,58,1); margin-left: 0.5vh; margin-right: 0.5vh; }
